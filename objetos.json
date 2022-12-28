@@ -1,0 +1,94 @@
+[
+    {
+        "id": "1",
+        "nombre": "Luke Skywalker",
+        "edad": 19,
+        "estatura": 174,
+        "hogar": "Tatooine",
+        "img": "./personajes/Luke.jfif"
+
+    },
+    {
+        "id": "2",
+        "nombre": "C3PO",
+        "edad": "Desconocida",
+        "estatura": "167",
+        "hogar": "Tatooine",
+        "img": "./personajes/c3po.jpg"
+
+    },
+    {
+        "id": "3",
+        "nombre": "Anakin Skywalker",
+        "edad": 23,
+        "estatura": 176,
+        "hogar": "Tatooine",
+        "img": "./personajes/anakin.webp"
+
+    },
+    {
+        "id": "4",
+        "nombre": "Darth Vader",
+        "edad": 45,
+        "estatura": 176,
+        "hogar": "Tatooine",
+        "img": "./personajes/darth.jpg"
+
+    },
+    {
+        "id": "5",
+        "nombre": "R2D2",
+        "edad": "Desconocida",
+        "estatura": 108,
+        "hogar": "Naboo",
+        "img": "./personajes/r2d2.jpg"
+
+    },
+    {
+        "id": "6",
+        "nombre": "Hand Solo",
+        "edad": 32,
+        "estatura": 180,
+        "hogar": "Corelia",
+        "img": "./personajes/hand.jpg"
+
+    },
+    {
+        "id": "7",
+        "nombre": "Obi wan Kenobi",
+        "edad": "IV",
+        "estatura": 1977,
+        "hogar": 950,
+        "img": "./personajes/obi.jpeg"
+
+    },
+    {
+        "id": "8",
+        "nombre": "Chewbacca",
+        "edad": "IV",
+        "estatura": 1977,
+        "hogar": 950,
+        "img": "./personajes/chewi.webp"
+
+    },
+    {
+        "id": "9",
+        "nombre": "Yoda",
+        "edad": "IV",
+        "estatura": 1977,
+        "hogar": 950,
+        "img": "./personajes/yoda.jpg"
+
+    },
+    {
+        "id": "10",
+        "nombre": "Leia Organa",
+        "edad": "IV",
+        "estatura": 1977,
+        "hogar": 950,
+        "img": "./personajes/leia.jpg"
+
+    }
+   
+ 
+]
